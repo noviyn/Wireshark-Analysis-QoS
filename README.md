@@ -5,5 +5,5 @@ diantaranya yaitu:
 2. Laporan berupa file .pdf
 3. Analisis Delay dan Jitter menggunakan microsoft excel berupa file .xlsx
 
-#Nama  : Novi Yuningsih
-#NIM   : 09011281823133
+- Nama  : Novi Yuningsih
+- NIM   : 09011281823133
