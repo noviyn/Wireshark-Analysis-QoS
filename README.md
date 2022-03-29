@@ -4,8 +4,3 @@ diantaranya yaitu:
 1. Capture trafik jaringan menggunakan wireshark berupa file .pcapng
 2. Laporan berupa file .pdf
 3. Analisis Delay dan Jitter menggunakan microsoft excel berupa file .xlsx
-
-
-
-- Nama  : Novi Yuningsih
-- NIM   : 09011281823133
